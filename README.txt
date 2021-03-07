@@ -1,4 +1,5 @@
 1) Download project
-2) Set up .env / app:key
-3) Run migrations
-4) php artisan storage:link
+2) composer install
+3) Set up .env / app:key
+4) Run migrations
+5) php artisan storage:link
